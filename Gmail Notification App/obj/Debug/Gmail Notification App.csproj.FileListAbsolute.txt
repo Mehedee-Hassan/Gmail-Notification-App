@@ -1,0 +1,7 @@
+c:\users\mhr\documents\visual studio 2013\Projects\Gmail Notification\Gmail Notification App\bin\Debug\Gmail Notification App.exe.config
+c:\users\mhr\documents\visual studio 2013\Projects\Gmail Notification\Gmail Notification App\bin\Debug\Gmail Notification App.exe
+c:\users\mhr\documents\visual studio 2013\Projects\Gmail Notification\Gmail Notification App\bin\Debug\Gmail Notification App.pdb
+c:\users\mhr\documents\visual studio 2013\Projects\Gmail Notification\Gmail Notification App\bin\Debug\Johnvey.GmailAgent.dll
+c:\users\mhr\documents\visual studio 2013\Projects\Gmail Notification\Gmail Notification App\obj\Debug\Gmail Notification App.csprojResolveAssemblyReference.cache
+c:\users\mhr\documents\visual studio 2013\Projects\Gmail Notification\Gmail Notification App\obj\Debug\Gmail Notification App.exe
+c:\users\mhr\documents\visual studio 2013\Projects\Gmail Notification\Gmail Notification App\obj\Debug\Gmail Notification App.pdb
